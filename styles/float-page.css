@@ -9,4 +9,20 @@ main {
   max-width: 1000px;
   margin-left: auto;
   margin-right: auto;
+  width: 100%;
+}
+.one {
+    float: left;
+    width: 300px;
+    margin-top: 15px;
+    margin-right: 15px;
+    margin-bottom: 15px;
+}
+
+.two {
+    float: right;
+    width: 300px;
+    margin-top: 15px;
+    margin-left: 15px;
+    margin-bottom: 15px;
 }
